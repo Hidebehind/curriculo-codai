@@ -68,7 +68,7 @@ hr {
 }
 
 .links-redes-sociais i {
-    color: #19def0;
+    color: #096e00;
     font-size: 25px;
     padding: 10px;
 }
@@ -83,7 +83,7 @@ hr {
 }    
 @media (min-width: 900px) {
     .container-linear {
-        background: linear-gradient(to left, #fff 60%, #19def0 40%);
+        background: linear-gradient(to left, #fff 60%, #005707 40%);
 
         }
 .card-col {
